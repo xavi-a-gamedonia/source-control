@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>source_control_test</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>hookScripts/serverHooks</name>
+			<type>2</type>
+			<location>/Users/jalbillos/Documents/QA_Test/debugger_workspaces/luna_sr2_962/source_control_test/serverHooks</location>
+		</link>
+	</linkedResources>
+</projectDescription>
